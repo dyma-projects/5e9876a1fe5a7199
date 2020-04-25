@@ -14,6 +14,8 @@ export class Exercice1Component implements OnInit {
   //   console.log($event);
   // }
 
+
+
   constructor() {
   }
 
